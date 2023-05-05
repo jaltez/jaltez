@@ -1,6 +1,6 @@
 # Javier Altez
 
-:fire: I’m passionate about Machine Learning and its applications in various domains (Deep Learning, LLMs, Reinforcement Learning, Data Analysis)
+:fire: I’m passionate about Machine Learning and its applications in various domains (Deep Learning, LLMs, RLHF, Data Analysis)
 
 :bulb: I love creating toy projects and experiments with new web technologies (Laravel, Next.js, Nuxt.js, Flutter, React, Django)
 
