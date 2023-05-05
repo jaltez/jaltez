@@ -1,7 +1,7 @@
 # Javier Altez
 
-:fire: Currently exploring everything about Machine Learning (Deep Learning, Reinforcement Learning, NLP, Preprocessing, Visualization)
+:fire: I’m passionate about Machine Learning and its applications in various domains (Deep Learning, LLMs, Reinforcement Learning, Data Analysis)
 
-:bulb: Always ready to make toy projects and experiments with web frameworks, APIs and mobile (Laravel, Nuxt.js, Vue.js, Dart, Flutter, React)
+:bulb: I love creating toy projects and experiments with new web technologies (Laravel, Next.js, Nuxt.js, Flutter, React, Django)
 
-:gear: I can also be found tinkering with generative coding (Processing) and game development (Unreal, Unity, VR)
+:gear: I also enjoy exploring generative coding (Processing) and game development (Unreal Engine, Unity, VR, AR, XR)
