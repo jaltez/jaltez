@@ -9,9 +9,10 @@ I build AI systems, immersive products, tools, and infrastructure. 19 years ship
 | Project | What it is |
 |---|---|
 | [**ka-harness**](https://github.com/jaltez/ka-harness) · [docs](https://ka-harness.dev) | A model-agnostic, very-low-footprint coding agent in Rust: one static binary, every provider, every model, no daemon. |
-| [**voyager**](https://github.com/jaltez/voyager) | Deep-research CLI in Rust: chained search providers, an iterative plan-search-synthesize loop over any LLM backend, and a verifiable evidence trail on disk. |
-| [**openloop**](https://github.com/jaltez/openloop) · [docs](https://olp.sh) | A CLI and daemon that runs AI coding agents unattended across your repositories: planning, writing, validating, and promoting changes on a loop. |
-| [**visiumxr**](https://github.com/jaltez/visiumxr) | Open-source VR/360/180 video player for the web: an embeddable `<visiumxr-video>` element built on WebGL2 + WebXR. |
+| [**ka-agent**](https://github.com/jaltez/ka-agent) · [docs](https://ka-agent.com) | Resident assistant on the Ka coding engine: Telegram, long-term memory, and human approvals. |
+| [**voyager**](https://github.com/jaltez/voyager) · [docs](https://vygr.sh) | Deep-research CLI in Rust: chained search providers, an iterative plan-search-synthesize loop over any LLM backend, and a verifiable evidence trail on disk. |
+| [**openloop**](https://github.com/jaltez/openloop) · [docs](https://olp.sh) | A CLI and daemon for autonomous, unattended development across linked repositories: planning, writing, validating, and promoting changes on a loop. |
+| [**visiumxr**](https://github.com/jaltez/visiumxr) · [demo](https://jaltez.github.io/visiumxr/) | Open-source VR/360/180 video player for the web: an embeddable `<visiumxr-video>` element built on WebGL2 + WebXR. |
 | [**agent-notify**](https://github.com/jaltez/agent-notify) | Tray companion for AI coding agents: live session status, attention popups, and webhooks. Single Go binary for Windows, Linux, and WSL. |
 
 ## 🧰 Also out there
